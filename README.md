@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-<div>
+<!--<div>
     <a href="https://open.spotify.com/user/Marvin 99">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ffmxqnbeufloqomnzvunr3krwq&count=1" alt="Spotify recently played"  />
     </a>
-</div>
+</div>-->
 
 ###
 
