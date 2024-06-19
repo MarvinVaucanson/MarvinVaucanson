@@ -11,14 +11,10 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/baptiste-rousselot-00121b251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
-  </a>
-  <a href="https://discord.gg/marvin99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/marvin_99__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
+  <a href="https://discord.gg/marvin99" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /></a>
+  <a href="https://instagram.com/marvin_99__" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+  <a href="https://baptiste.rousselot.name/Portfolio" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=dev.to&label=&color=00a3a6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
 </div>
 <!--<div>
     <a href="https://open.spotify.com/user/Marvin 99">
