@@ -5,7 +5,8 @@
 <h2 align="left">About me</h2>
 
 ###
-  <p align="left">💻 IUT Lyon 1<br>📍 Lyon<br>📷 Smile !<br>🌱 Planet Lover</p>
+  <p> Hi I'm Baptiste ! (he/him)
+  <p align="left">💻 IUT Lyon 1<br>📍 Lyon<br>📷 Smile !<br>🌱 Planet Lover<br>🐢 My friends say i'm a turtle fanatic</p>
 
 ###
 
