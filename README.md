@@ -10,15 +10,18 @@
   <p>Former IUT Lyon 1 Student</p>
 
   <p>Actually I tried to learn <a href="https://strudel.cc/">Strudel</a>... Help me it's so hard (but so swag)</p>
-###
+
+### Follow me 
 
 <div align="left">
   <a href="https://linkedin.com/in/baptiste-rousselot-00121b251" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=logmein&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
   <a href="https://discord.gg/marvin99" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /></a>
   <a href="https://instagram.com/marvin_99__" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+  <a href="https://pixelfed.social/Marvin_vcs" target="_blank"><img src="https://img.shields.io/static/v1?message=Pixelfed&logo=pixelfed&label=&color=FFFFFF&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
   <a href="https://baptiste.rousselot.name/Portfolio" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=dev.to&label=&color=00a3a6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-    <a href="https://baptiste.rousselot.name/tabouretfun" target="_blank"><img src="https://img.shields.io/static/v1?message=Tabouret.fun&label=&logo=alchemy&color=957b62&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+  <a href="https://baptiste.rousselot.name/tabouretfun" target="_blank"><img src="https://img.shields.io/static/v1?message=Tabouret.fun&label=&logo=infomaniak&color=957b62&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Deezer&label=&logo=undertale&color=9f37fb&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="deezer logo"  /></a>
 </div>
 <!--<div>
     <a href="https://open.spotify.com/user/Marvin 99">
