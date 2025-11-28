@@ -6,8 +6,10 @@
 
 ###
   <p> Hi I'm Baptiste ! (he/him)
-  <p align="left">💻 IUT Lyon 1<br>📍 Lyon<br>📷 Smile !<br>🌱 Planet Lover<br>🐢 My friends say i'm a turtle fanatic</p>
+  <p align="left">💻 CPE Lyon<br>📍 Lyon<br>📷 Smile !<br>🌱 Planet Lover<br>🐢 My friends say i'm a turtle fanatic</p>
+  <p>Former IUT Lyon 1 Student</p>
 
+  <p>Actually I tried to learn <a href="https://strudel.cc/">Strudel</a>... Help me it's so hard (but so swag)</p>
 ###
 
 <div align="left">
